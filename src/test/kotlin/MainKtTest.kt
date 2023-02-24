@@ -33,7 +33,7 @@ class MainKtTest {
             Donut(true, 223,"placeholder", true, "all"),
             1
         )
-        val post3 = Post(
+        val post2 = Post(
             2,
             12345665,
             12345665,
